@@ -20,7 +20,7 @@ section{
 button{
     background-image: linear-gradient(rgb(210, 79, 50), rgb(57, 7, 7));
     height: 50px;
-    width: 150px;
+    width: 250px;
     font-size: larger;
     border-radius: 10px;
     
@@ -32,4 +32,12 @@ a{
 }
 h1{
     font-size: 5ex;
+}
+.text{
+    padding: 20px;
+}
+.middle-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
